@@ -92,4 +92,4 @@ default.recipient: ${DEFAULT_RECIPIENT}
 
 sendgrid:
   api:
-    key: {SENDGRID_API_KEY}
+    key: ${SENDGRID_API_KEY}
